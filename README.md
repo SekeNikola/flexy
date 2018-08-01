@@ -18,3 +18,7 @@ The grid system is based on Bootstrap 4 classes for the full responsive app. The
 Some of the custom classes are text-left, text-right and text-center to align your elements. Sometimes you just need to position elements in the middle of the container and thats where middle-col and middle-row classes enter. Don't forget to set the height of the container.
 
 For more detailed informations go to [Flexy](https://www.sekenikola.com/codes/Flexy/flexy.html).
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/SekeNikola/flexy/graphs/commit-activity)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/SekeNikola/flexy)
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
