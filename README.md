@@ -22,3 +22,7 @@ For more detailed informations go to [Flexy](https://www.sekenikola.com/codes/Fl
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/SekeNikola/flexy/graphs/commit-activity)
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/SekeNikola/flexy)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+[![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://www.sekenikola.com/flexy/index.html)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
