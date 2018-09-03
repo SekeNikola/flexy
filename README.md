@@ -1,4 +1,4 @@
-![alt text](http://www.sekenikola.com/codes/Flexy/img/logo.jpg)
+![Flexy](https://res.cloudinary.com/sekenikola/image/upload/v1523193806/flexy_share_iyq4sk.jpg)
 
 Flexy is an open source toolkit for developing with HTML and CSS. Quickly prototype your ideas or build your entire app with Bootstrap 4 responsive grid system without styles just grid, normalize css and some additional goodies all in one.
 
